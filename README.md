@@ -5,10 +5,8 @@
 ## Inhalt
 
 * [Install Lunarcalendar⚙️](#-Installation)
-* [Institution](#-Institution)
+* [Institution📐](#-Institution)
 * [Installed tools🛠️](#-Installed-tools)
-* [Functions📐](#-)
-* [Idea💡](#-)
 
 ### Installation⚙️
 * Download the zip file or clone the repositorie in cmd with `git clone gh repo clone OPI-LOGI/Calendar`
