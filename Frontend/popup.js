@@ -6,4 +6,5 @@ function showPopup() {
 function hidePopup() {
     var popup = document.getElementById("popup");
     popup.style.display = "none";
+    location.reload();
 }

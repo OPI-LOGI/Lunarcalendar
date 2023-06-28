@@ -35,7 +35,7 @@
                 <i class="fa-regular fa-square-plus" id="Plus" title="Neuer Eintrag erstellen" onclick="showPopup()"></i>
             </div>
             <h1>
-                Kalender <span id="jahr"></span>
+                Lunarcalendar <span id="jahr"></span>
             </h1>
             <div class="inputBox">
                 <input type="text" placeholder="Suche..." title="Eingabefeld">
@@ -200,17 +200,17 @@
                         }
 
                         // Schließe das Popup-Fenster
-                        const popup = document.getElementById('popup');
+                        var popup = document.getElementById('popup');
                         popup.style.display = 'none';
 
                         // Lade die Seite neu
                         setTimeout(() => {
                             location.reload();
-                        }, 100); // Warte 0.1 Sekunde, bevor die Seite neu geladen wird
+                        }, 100); // Warte 0,1 Sekunden, bevor die Seite neu geladen wird
                     }
                 })
                 .catch(error => {
-                    // Fehler beim Senden der Daten an den Server
+                    // Fehler beim Senden der Daten an den Servers
                     console.error('Fehler beim Speichern:', error);
                 });
         });
