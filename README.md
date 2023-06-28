@@ -30,7 +30,7 @@
 * Go on the webserver and search for `http://127.0.0.1:5501/Frontend/home.html`
 * If this will not work then install the Extensions `Live Server`in VSCodes
 * Installed?
-![image](https://github.com/OPI-LOGI/Calendar/assets/78499451/15ceb534-ed2f-48c8-a821-5f26d06cc53e)
+![Images2](https://github.com/OPI-LOGI/Calendar/assets/78499451/15ceb534-ed2f-48c8-a821-5f26d06cc53e)
 
 * Click on the icon right at the bottom `Go Live`
 * Now a window should open with the Lunarcalendar
