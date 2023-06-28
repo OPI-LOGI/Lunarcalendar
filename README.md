@@ -10,11 +10,13 @@
 * [Reports📝](#-Reports)
 
 ### Installation⚙️
+
 * Download the zip file or clone the repositorie in cmd with `git clone gh repo clone OPI-LOGI/Calendar`
 * Extrahct the folder that you downloaded or clone
 * Open it in VSCodes
 
 ### Institution
+
 * Open your Terminal in VSCodes
 * Type:
   ```bash
@@ -38,10 +40,12 @@ is a document-oriented, non-relational database management system. It stores dat
 
 ##### MongoDb Compass
 is the official GUI tool provided by MongoDB. It offers a visual interface for interacting with MongoDB databases. With Compass, you can view and edit collections, create and execute queries, visualize data using charts, and manage indexes and user roles. Compass provides a user-friendly interface that simplifies working with MongoDB.
+
 ##### Mongoose
 Mongoose is an Object Data Modeling (ODM) library for MongoDB, designed for Node.js applications. It provides a higher level of abstraction for interacting with MongoDB. With Mongoose, developers can define schemas, create models, and perform database operations using JavaScript. Mongoose simplifies the process of connecting to MongoDB, performing CRUD operations, enforcing data validation, and defining relationships between different collections.
 
 ### Reports
+
 If you encounter any problems, please report them to me.👀
 
 ##### Need more information?⁉️
